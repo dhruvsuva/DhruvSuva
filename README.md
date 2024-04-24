@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋🏻 I'm Dhruv Suva</h1>
 <h3 align="center">git commit -m "Hello, I'm a developer and love to develop my own ideas!"</h3>
 
-![mrsahil.in](https://raw.githubusercontent.com/secret-sahil/secret-sahil/main/Black_Technology_LinkedIn_Banner_1%20(1).png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=secret-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="secret-sahil" /> </p>
+
 
 - 👨‍💻 All about me is at [My Website](https://dhruvsuva.in/)
 
